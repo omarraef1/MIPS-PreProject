@@ -1,0 +1,5 @@
+    OOOOO  BBBB   FFFFF  U   U  SSSSS  CCCCC  AAAAA  TTTTT  EEEEE  DDDD   ????
+    O   O  B   B  F      U   U  S      C      A   A    T    E      D   D      ?
+    O   O  BBBBB  FFF    U   U   SSSS  C      AAAAA    T    EEEEE  D   D      ?
+    O   O  B   B  F      U   U      S  C      A   A    T    E      D   D    ?
+    OOOOO  BBBB   F      UUUUU  SSSSS  CCCCC  A   A    T    EEEEE  DDDD     ?
